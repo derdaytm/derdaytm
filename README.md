@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning HTML,Css,Javascript,C,C++
 - 💞️ I’m looking to collaborate on Software
-- 📫 How to reach me mail.
+- 📫 How to reach me mail(derdayetm@gmail.com)
 
 <!---
 derdaytm/derdaytm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
